@@ -1,0 +1,3 @@
+i
+#!/bin/sh
+pwd
