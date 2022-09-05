@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, World
+echi "Hello, World"
